@@ -1,2 +1,2 @@
-# personal-template
-Personal hacker typing website template.
+# Wizard's personal website template
+Personal hacker typed website template for about me.
